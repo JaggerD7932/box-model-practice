@@ -10,7 +10,10 @@
     background: yellow;
     /*add CSS here*/
     border: 40px solid yellow;
-    margin: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 
 #subtitle {
@@ -18,15 +21,19 @@
     color: white;
     /*add CSS here*/
     border: 10px solid black;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 80px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    margin: 40px;
-    /*margin: 0;*/
-    /*overflow: visible;*/
+    display: inline;
+    padding: 5px;
+    /*margin: 105px;*/
+    margin-left: 95px;
+    margin-right: 95px;
 }
