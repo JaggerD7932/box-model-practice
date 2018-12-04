@@ -6,6 +6,10 @@
     text-align: center;
 }
 
+body {
+    padding-bottom: 40px;
+}
+
 #title {
     background: yellow;
     /*add CSS here*/
